@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"__locale": "cpp",
+			"ios": "cpp",
+			"__bit_reference": "cpp",
+			"algorithm": "cpp",
+			"bitset": "cpp",
+			"chrono": "cpp"
+		},
+		"git.ignoreLimitWarning": true
+	}
+}
