@@ -12,7 +12,8 @@
 			"__bit_reference": "cpp",
 			"algorithm": "cpp",
 			"bitset": "cpp",
-			"chrono": "cpp"
+			"chrono": "cpp",
+			"string": "cpp"
 		},
 		"git.ignoreLimitWarning": true
 	}
